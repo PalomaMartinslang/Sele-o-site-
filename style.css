@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header img{
+    width: 6em;
+
+}
+.seleção {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.seleção img {
+    border-radius: 1em;
+    width: 25;
+    -webkit-box-shadow: 82px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 82px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 82px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
